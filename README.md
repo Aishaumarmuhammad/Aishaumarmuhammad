@@ -9,7 +9,8 @@
 
     
   <h2>👨‍💻 Certifications:</h2>
-  -[Google Cybersecurity Analyst Professional Certificate] (https://www.coursera.org/user/90a72a98c4b4af8a418e043fc23e7d4b)
+  -[Google Cybersecurity Analyst Professional Certificate] (https://www.coursera.org/user/90a72a98c4b4af8a418e043fc23e7d4b) (https://www.coursera.org/share/20fce615e869d23b8ed9c7878197717a)
+
 
 
 
