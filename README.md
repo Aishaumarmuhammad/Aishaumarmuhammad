@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aisha! <br/><a href="https://github.com/Aishaumarmuhammad">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/aisha-umar-muhammad-805199187/">Digital Health Graduate</a>
+<h1>Hi, I'm Aisha! <br/><a href="https://github.com/Aishaumarmuhammad">Data Analyst</a>, <a href="https://www.linkedin.com/in/aisha-umar-muhammad-805199187/">Digital Health Graduate</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
